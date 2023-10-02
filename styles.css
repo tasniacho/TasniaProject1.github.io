@@ -1,0 +1,88 @@
+body {
+	background-image: url("background.JPG");
+	background-size: cover;
+}
+
+img {
+	border-radius: 50%;
+	width: 200px;
+	float: left;
+	border: 4px #0E4586;
+	margin-right: 15px;
+}
+
+.selfie {
+	margin: 50px auto;
+	width: 70%;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Times New Roman";
+	color: #6e78c2;
+}
+
+h1 span {
+	background-color: #F6F2EF;
+}
+
+p1 {
+	font-size: 22px;
+	color: #0E4586;
+}
+
+p1 span {
+	background-color: #F6F2EF;
+}
+
+p2 {
+	font-size: 22px;
+	color: #4A4872;
+}
+
+p2 span {
+	background-color: #F6F2EF;
+}
+
+h2 {
+	color: #013C8A;
+}
+
+h2 span {
+	background-color: #F6F2EF;
+}
+
+ul {
+	list-style-type: "✽ ";
+	color: #5986BB;
+	font-size: 21px;
+	background-color: #F6F2EF;
+}
+
+a {
+  text-decoration: none;
+  color: #F94EBC;
+}
+
+.course-table {
+  width: 100%;
+  background-color: #f6f2ef;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #6e78c2;
+  border-style: dashed;
+  color: #000000;
+}
+
+.course-table td, .course-table th {
+  border-width: 2px;
+  border-color: #000000;
+  border-style: dashed;
+  padding: 4px;
+  font-size: 22px;
+  color: #0E4586;
+}
+
+.course-table thead {
+  background-color: #ffffff;
+}
